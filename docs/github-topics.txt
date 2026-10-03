@@ -1,0 +1,22 @@
+Description:
+23 great minds as agent skills for Claude Code: the working methods of Feynman, Dijkstra, Ohno, Munger, Torvalds and more, plus a council that argues for you. Methods, not voices.
+
+Topics:
+claude-code
+claude-skills
+agent-skills
+claude-code-plugin
+ai-agents
+prompt-engineering
+mental-models
+first-principles
+thinking-tools
+decision-making
+code-review
+debugging
+root-cause-analysis
+software-design
+software-engineering
+llm
+coding-agent
+skills

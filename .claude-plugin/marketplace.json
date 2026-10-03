@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "think-like",
+  "description": "Great minds as agent skills: the working methods of Feynman, Dijkstra, Ohno, Munger and others, turned into steps your coding agent follows.",
+  "owner": {
+    "name": "nuttakulsv",
+    "url": "https://github.com/nuttakulsv"
+  },
+  "plugins": [
+    {
+      "name": "think-like",
+      "description": "23 great minds, a council that argues for you, and a kit to add your own.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

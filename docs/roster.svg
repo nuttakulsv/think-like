@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1078" viewBox="0 0 1600 1078">
+<rect width="1600" height="1078" fill="#f6f3ec"/>
+<g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<text x="40" y="112" font-size="72" font-weight="700" fill="#1c1917">think-like</text>
+<text x="40" y="164" font-size="28" fill="#57534e">23 great minds as agent skills. Their methods, not their voices.</text>
+<text x="1560" y="112" font-size="22" fill="#78716c" text-anchor="end">/think-like:council</text>
+<text x="1560" y="146" font-size="22" fill="#78716c" text-anchor="end">/think-like:mind-maker</text>
+<text x="40" y="250" font-size="20" font-weight="700" fill="#c2410c" letter-spacing="1.5">UNDERSTAND AND DEBUG</text>
+<rect x="40" y="274" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="40" y="274" width="6" height="82" rx="3" fill="#c2410c"/>
+<text x="64" y="308" font-size="24" font-weight="700" fill="#1c1917">Richard Feynman</text>
+<text x="64" y="336" font-size="18" fill="#57534e">confusing code, unexplained fixes</text>
+<rect x="40" y="368" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="40" y="368" width="6" height="82" rx="3" fill="#c2410c"/>
+<text x="64" y="402" font-size="24" font-weight="700" fill="#1c1917">George Pólya</text>
+<text x="64" y="430" font-size="18" fill="#57534e">being stuck after failed fixes</text>
+<rect x="40" y="462" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="40" y="462" width="6" height="82" rx="3" fill="#c2410c"/>
+<text x="64" y="496" font-size="24" font-weight="700" fill="#1c1917">Taiichi Ohno</text>
+<text x="64" y="524" font-size="18" fill="#57534e">incidents, bugs that come back</text>
+<rect x="40" y="556" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="40" y="556" width="6" height="82" rx="3" fill="#c2410c"/>
+<text x="64" y="590" font-size="24" font-weight="700" fill="#1c1917">Claude Shannon</text>
+<text x="64" y="618" font-size="18" fill="#57534e">no obvious approach, noisy alerts</text>
+<text x="426" y="250" font-size="20" font-weight="700" fill="#1d4ed8" letter-spacing="1.5">CORRECTNESS AND DESIGN</text>
+<rect x="426" y="274" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="274" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="308" font-size="24" font-weight="700" fill="#1c1917">Edsger W. Dijkstra</text>
+<text x="450" y="336" font-size="18" fill="#57534e">algorithms, money, concurrency</text>
+<rect x="426" y="368" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="368" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="402" font-size="24" font-weight="700" fill="#1c1917">Barbara Liskov</text>
+<text x="450" y="430" font-size="18" fill="#57534e">interfaces, inheritance, adapters</text>
+<rect x="426" y="462" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="462" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="496" font-size="24" font-weight="700" fill="#1c1917">John Ousterhout</text>
+<text x="450" y="524" font-size="18" fill="#57534e">module and API design</text>
+<rect x="426" y="556" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="556" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="590" font-size="24" font-weight="700" fill="#1c1917">Rich Hickey</text>
+<text x="450" y="618" font-size="18" fill="#57534e">state, data models, tool choices</text>
+<rect x="426" y="650" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="650" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="684" font-size="24" font-weight="700" fill="#1c1917">Donald Knuth</text>
+<text x="450" y="712" font-size="18" fill="#57534e">algorithms, "is this fast enough"</text>
+<rect x="426" y="744" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="744" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="778" font-size="24" font-weight="700" fill="#1c1917">Albert Einstein</text>
+<text x="450" y="806" font-size="18" fill="#57534e">distributed systems, time, scale</text>
+<rect x="426" y="838" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="426" y="838" width="6" height="82" rx="3" fill="#1d4ed8"/>
+<text x="450" y="872" font-size="24" font-weight="700" fill="#1c1917">Nikola Tesla</text>
+<text x="450" y="900" font-size="18" fill="#57534e">multi-part features, migrations</text>
+<text x="812" y="250" font-size="20" font-weight="700" fill="#047857" letter-spacing="1.5">BUILD AND SHIP</text>
+<rect x="812" y="274" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="812" y="274" width="6" height="82" rx="3" fill="#047857"/>
+<text x="836" y="308" font-size="24" font-weight="700" fill="#1c1917">Kent Beck</text>
+<text x="836" y="336" font-size="18" fill="#57534e">implementing behavior safely</text>
+<rect x="812" y="368" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="812" y="368" width="6" height="82" rx="3" fill="#047857"/>
+<text x="836" y="402" font-size="24" font-weight="700" fill="#1c1917">Martin Fowler</text>
+<text x="836" y="430" font-size="18" fill="#57534e">messy code, cleanup</text>
+<rect x="812" y="462" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="812" y="462" width="6" height="82" rx="3" fill="#047857"/>
+<text x="836" y="496" font-size="24" font-weight="700" fill="#1c1917">Linus Torvalds</text>
+<text x="836" y="524" font-size="18" fill="#57534e">code review, public interfaces</text>
+<rect x="812" y="556" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="812" y="556" width="6" height="82" rx="3" fill="#047857"/>
+<text x="836" y="590" font-size="24" font-weight="700" fill="#1c1917">John Carmack</text>
+<text x="836" y="618" font-size="18" fill="#57534e">performance</text>
+<rect x="812" y="650" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="812" y="650" width="6" height="82" rx="3" fill="#047857"/>
+<text x="836" y="684" font-size="24" font-weight="700" fill="#1c1917">Fred Brooks</text>
+<text x="836" y="712" font-size="18" fill="#57534e">estimates, staffing, rewrites</text>
+<text x="1198" y="250" font-size="20" font-weight="700" fill="#7c3aed" letter-spacing="1.5">DECIDE</text>
+<rect x="1198" y="274" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="274" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="308" font-size="24" font-weight="700" fill="#1c1917">Elon Musk</text>
+<text x="1222" y="336" font-size="18" fill="#57534e">bloated specs and processes</text>
+<rect x="1198" y="368" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="368" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="402" font-size="24" font-weight="700" fill="#1c1917">Jeff Bezos</text>
+<text x="1222" y="430" font-size="18" fill="#57534e">product decisions, slow decisions</text>
+<rect x="1198" y="462" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="462" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="496" font-size="24" font-weight="700" fill="#1c1917">Charlie Munger</text>
+<text x="1222" y="524" font-size="18" fill="#57534e">risky or expensive choices</text>
+<rect x="1198" y="556" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="556" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="590" font-size="24" font-weight="700" fill="#1c1917">Daniel Kahneman</text>
+<text x="1222" y="618" font-size="18" fill="#57534e">estimates, confident plans</text>
+<rect x="1198" y="650" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="650" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="684" font-size="24" font-weight="700" fill="#1c1917">Alan Turing</text>
+<text x="1222" y="712" font-size="18" fill="#57534e">specs, acceptance criteria, evals</text>
+<rect x="1198" y="744" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="744" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="778" font-size="24" font-weight="700" fill="#1c1917">Socrates</text>
+<text x="1222" y="806" font-size="18" fill="#57534e">ambiguous requests</text>
+<rect x="1198" y="838" width="362" height="82" rx="12" fill="#ffffff" stroke="#e7e5e4"/>
+<rect x="1198" y="838" width="6" height="82" rx="3" fill="#7c3aed"/>
+<text x="1222" y="872" font-size="24" font-weight="700" fill="#1c1917">Grace Hopper</text>
+<text x="1222" y="900" font-size="18" fill="#57534e">convincing stakeholders</text>
+<text x="40" y="1030" font-size="20" fill="#78716c">github.com/nuttakulsv/think-like</text>
+<text x="1560" y="1030" font-size="20" fill="#78716c" text-anchor="end">Claude Code plugin · Agent Skills · MIT</text>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "name": "think-like",
+  "version": "0.1.0",
+  "description": "Great minds as agent skills: the working methods of Feynman, Dijkstra, Ohno, Munger and others, turned into steps your coding agent follows.",
+  "author": {
+    "name": "nuttakulsv",
+    "url": "https://github.com/nuttakulsv"
+  },
+  "homepage": "https://github.com/nuttakulsv/think-like",
+  "repository": "https://github.com/nuttakulsv/think-like",
+  "license": "MIT",
+  "keywords": ["skills", "thinking", "mental-models", "code-review", "debugging", "decision-making"]
+}
